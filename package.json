@@ -1,0 +1,11 @@
+{
+  "name": "@sportsappin/countries-info-js",
+  "version": "2022.2.1",
+  "description": "",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  },
+  "author": "Himanshu Nain",
+  "license": "ISC"
+}
